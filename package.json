@@ -1,0 +1,20 @@
+{
+  "name": "financial-toolkit",
+  "version": "1.0.0",
+  "description": "A toolkit for calculating financial indicators like SMA, EMA, RSI, and more.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "financial",
+    "indicators",
+    "SMA",
+    "EMA",
+    "RSI",
+    "trading"
+  ],
+  "author": "Nitzan Karsh",
+  "license": "MIT"
+}

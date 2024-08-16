@@ -1,0 +1,29 @@
+# Node modules directory
+node_modules/
+
+# Build output
+dist/
+
+# TypeScript configuration files
+tsconfig.json
+
+# Logs
+*.log
+
+# IDE and editor directories
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# npm package-lock or yarn lock files (optional, depending on your preference)
+package-lock.json
+yarn.lock
+
+# Test coverage reports
+coverage/
