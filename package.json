@@ -1,6 +1,6 @@
 {
   "name": "financial-toolkit",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A toolkit for calculating financial indicators like SMA, EMA, RSI, and more.",
   "main": "dist/index.js",
   "scripts": {
