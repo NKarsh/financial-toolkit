@@ -47,7 +47,7 @@ yarn add financial-toolkit
 Here’s a quick example of how to use the Financial Toolkit:
 
 ```typescript
-import { sma, ema, rsi } from "financial-toolkit";
+import { sma, ema, rsi } from "financial-toolkit/indicators";
 
 const prices = [
   22.27, 22.19, 22.08, 22.17, 22.18, 22.13, 22.23, 22.43, 22.24, 22.29,

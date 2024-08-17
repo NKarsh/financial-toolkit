@@ -1,4 +1,2 @@
 // Indicators
-export * from "./indicators/ema";
-export * from "./indicators/sma";
-export * from "./indicators/rsi";
+export * from "./indicators";
